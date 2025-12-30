@@ -1,0 +1,10 @@
+venv/
+.venv/
+life_data.csv
+logs.csv
+project_logs.csv
+.DS_Store
+app1.py
+app_base.py
+app_satisfy.py
+__pycache__/

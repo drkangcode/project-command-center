@@ -1,0 +1,6 @@
+[theme]
+base = "light"           # 强制亮色模式（白色背景）
+primaryColor = "#FF69B4" # 主题色（粉色）
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#FFF0F5" # 侧边栏和组件背景（淡粉）
+textColor = "#333333"
